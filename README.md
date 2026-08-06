@@ -5,6 +5,13 @@ sector legal mexicano, construido por **Bloomi**. Este repositorio se clona
 una vez por cada despacho cliente; cada clon usa su propio proyecto de
 Supabase, aislado de los demás.
 
+**¿Vas a levantar esto para un cliente nuevo?** Sigue
+[`NUEVO_PROYECTO.md`](./NUEVO_PROYECTO.md) paso a paso — está escrito para
+que cualquier persona o sesión de Claude Code sin contexto previo lo pueda
+ejecutar solo. El frontend completo de referencia (todos los módulos ya
+construidos) vive en
+[Legal_demov1](https://github.com/BloomiStudio/Legal_demov1).
+
 ## Quién edita qué
 
 | Carpeta      | Dueño                              | Notas                                                                 |
